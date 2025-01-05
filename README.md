@@ -37,3 +37,6 @@
     12. The RTMP server sends the live stream to platforms like YouTube Live, Facebook Live, or any other supported service.
 
 
+
+
+![stream](https://github.com/user-attachments/assets/5b405a13-4110-4276-bed2-5a8ebe24e818)
